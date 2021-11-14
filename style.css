@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    width: 100%;
+    background-image: url(Images/background2.jpeg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrapper {
+    width: 90%
+    margin: 0 auto;
+
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+h1 {
+    color: white;
+    font: 50px;
+}
+p {
+    color: white;
+    font-size: 20px;
+}
+/*--nav--*/
+
+
+/*--header--*/
+
+
+/*--work--*/
+
+
+/*--whatIDO--*/
+
+
+/*--work2--*/
+
+
+/*--footer--*/
+
